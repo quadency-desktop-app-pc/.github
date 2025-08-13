@@ -29,11 +29,11 @@ A quick look at key parts in action:
 ## 💡 System Requirements
 
 **Minimum:**
-- **OS:** Windows 7 SP1 or newer (64-bit)  
-- **CPU:** Intel Core i3-2100 or AMD FX-4100  
+- **OS:** Windows 10 or newer (64-bit)  
+- **CPU:** Intel or AMD processor  
 - **RAM:** 4 GB  
-- **Storage:** 200 MB available space  
-- **Others:** Internet connection, API keys from supported exchanges  
+- **Storage:** 500 MB available space  
+- **Others:** Internet connection required  
 
 ## 🔍 SEO Keywords
 how to install quadency desktop app · quadency crypto trading platform for pc · using quadency bots on windows · portfolio tracking with quadency · quadency exchange integration guide · secure crypto trading desktop app · advanced charting in quadency · connecting binance to quadency · quadency automated trading setup · quadency features explained · cryptocurrency portfolio manager for windows · quadency system requirements · how quadency bots work · quadency vs other trading platforms · quadency for beginners guide · using quadency with multiple exchanges · crypto trading strategies with quadency · quadency app installation tutorial · quadency desktop interface tour · quadency trading bot customization
